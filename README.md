@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AzizK97/AzizK97/main/assets/name-header.svg" alt="Aziz Kanoun" />
+# Aziz Kanoun
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Multi-Agent+Systems;Recently+Graduated+%7C+ENISo%2C+Tunisia;Open+to+AI+Engineering+roles" alt="Typing SVG" />
 
