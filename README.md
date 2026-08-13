@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Aziz+Kanoun" />
+<img src="https://raw.githubusercontent.com/AzizK97/AzizK97/main/assets/name-header.svg" alt="Aziz Kanoun" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Multi-Agent+Systems;Recently+Graduated+%7C+ENISo%2C+Tunisia;Open+to+AI+Engineering+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Multi-Agent+Systems;Recently+Graduated+%7C+ENISo%2C+Tunisia;Open+to+AI+Engineering+roles" alt="Typing SVG" />
 
 </div>
 
@@ -71,7 +71,7 @@ A multi-agent AI assistant built around a **LangGraph supervisor pattern** coord
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AzizK97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8&icon_color=00C2A8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizK97&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=00C2A8" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=AzizK97&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=00C2A8" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizK97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8" height="165"/>
 
