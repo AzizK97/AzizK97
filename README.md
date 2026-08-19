@@ -58,7 +58,7 @@ A multi-agent AI assistant built around a **Supervisor pattern** coordinating **
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,fastapi,vue,postgres,redis,docker,kubernetes,linux,git,bash&perline=10)
+![](https://skillicons.dev/icons?i=pnpm,spring,fastapi,postgres,redis,docker,kubernetes,linux,git,bash&perline=10)
 
 **AI / Agents:** LangChain · LangGraph · RAG pipelines · LangFuse · Ollama
 **Networking & Security:** Wireshark · Nmap · Suricata · ARP/traffic tooling · Metasploit
