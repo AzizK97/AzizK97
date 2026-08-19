@@ -18,11 +18,11 @@
 
 ### 👋 About me
 
-I'm a recently graduated **ICT / Embedded Telecommunications Engineer** from **ENISo** (École Nationale d'Ingénieurs de Sousse), Tunisia. My final-year internship at **Elyos Digital** produced **RedSage**, a production-grade multi-agent AI assistant — that project is now the core of what I build and talk about.
+I'm a recently graduated **ICT / Embedded Telecommunications Engineer** from **ENISo** (École Nationale d'Ingénieurs de Sousse), Tunisia.
 
 - 🔭 Currently expanding my knowledge in LLM integration and manipulation
 - 🎨 Also do freelance **UX/UI design** work on the side
-- ⚡ Fun fact: when I'm not shipping agents, I'm building guitar pedals or tinkering with Linux on bare metal
+- ⚡ Fun fact: when I'm not shipping agents, I'm tinkering with guitar pedals or tinkering with Linux on bare metal
 
 ---
 
@@ -41,13 +41,14 @@ I'm a recently graduated **ICT / Embedded Telecommunications Engineer** from **E
 
 <br>
 
-A multi-agent AI assistant built around a **LangGraph supervisor pattern** coordinating **four specialized ReAct agents**, integrated directly into Redmine for project management. Highlights:
+A multi-agent AI assistant built around a **Supervisor pattern** coordinating **four specialized ReAct agents**, integrated directly into Redmine for project management. Highlights:
 
 - 🧠 Supervisor-orchestrated agent graph with human-in-the-loop approval gates
 - 🔧 14 custom Redmine tools for task/issue automation
 - 🗂️ Two-tier memory system (Redis for short-term, PostgreSQL for long-term)
 - 📊 Full observability via LangFuse, background jobs via APScheduler
 - 🖥️ Vue 3 frontend, pnpm monorepo, containerized with Docker/k3s
+- Alongside an embedded Redmine plugin 
 
 **[→ View the repo](https://github.com/AzizK97/RedSage)**
 
@@ -59,8 +60,8 @@ A multi-agent AI assistant built around a **LangGraph supervisor pattern** coord
 
 ![](https://skillicons.dev/icons?i=python,fastapi,vue,postgres,redis,docker,kubernetes,linux,git,bash&perline=10)
 
-**AI / Agents:** LangChain · LangGraph · RAG pipelines · Ollama · Azure AI Foundry
-**Networking & Security:** Wireshark · Nmap · Suricata · ARP/traffic tooling
+**AI / Agents:** LangChain · LangGraph · RAG pipelines · LangFuse · Ollama
+**Networking & Security:** Wireshark · Nmap · Suricata · ARP/traffic tooling · Metasploit
 
 </div>
 
