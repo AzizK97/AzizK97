@@ -69,7 +69,7 @@ A multi-agent AI assistant built around a **Supervisor pattern** coordinating **
 
 ### 📊 GitHub stats
 
-https://githubcard.com/AzizK97.svg?d=JobFs9WIRumg
+![GitHubCard}(https://githubcard.com/AzizK97.svg?d=JobFs9WIRumg)
 
 ---
 
