@@ -69,14 +69,7 @@ A multi-agent AI assistant built around a **Supervisor pattern** coordinating **
 
 ### 📊 GitHub stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AzizK97&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8&icon_color=00C2A8" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=AzizK97&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2A8&fire=00C2A8" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizK97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2A8" height="165"/>
-
-</div>
+![GitHubCard](https://githubcard.com/AzizK97.svg)
 
 ---
 
