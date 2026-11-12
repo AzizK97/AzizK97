@@ -26,7 +26,27 @@ I'm a recently graduated **ICT / Embedded Telecommunications Engineer** from **E
 
 ---
 
-### 🚀 Latest project — RedSage
+### 🆕 Latest project — netops-agent-lab
+
+<div align="center">
+<img src="https://img.shields.io/badge/Containerlab-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/FRRouting-E87722?style=flat-square" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</div>
+
+<br>
+
+A local network operations lab built to explore **agentic network ops**. It runs entirely on one machine, with virtual routers and hosts on Containerlab and FRRouting, plus observability and an AI agent layer that diagnoses issues and proposes fixes. The LLM never touches devices directly: every action goes through policy guardrails and human approval.
+
+**[→ View the repo](https://github.com/AzizK97/netops_agent)**
+
+---
+
+### ⭐ Flagship project — RedSage
 
 <div align="center">
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -61,7 +81,7 @@ A multi-agent AI assistant built around a **Supervisor pattern** coordinating **
 ![](https://skillicons.dev/icons?i=pnpm,spring,fastapi,postgres,redis,docker,kubernetes,linux,git,bash&perline=10)
 
 **AI / Agents:** LangChain · LangGraph · RAG pipelines · LangFuse · Ollama
-**Networking & Security:** Wireshark · Nmap · Suricata · ARP/traffic tooling · Metasploit
+**Networking & Security:** Wireshark · Nmap · Suricata · ARP/traffic tooling · Metasploit · Containerlab · FRRouting
 
 </div>
 
