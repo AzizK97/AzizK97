@@ -40,7 +40,7 @@ I'm a recently graduated **ICT / Embedded Telecommunications Engineer** from **E
 
 <br>
 
-A local network operations lab built to explore **agentic network ops**. It runs entirely on one machine, with virtual routers and hosts on Containerlab and FRRouting, plus observability and an AI agent layer that diagnoses issues and proposes fixes. The LLM never touches devices directly: every action goes through policy guardrails and human approval.
+A local network operations lab built to explore **agentic network ops**. It runs entirely on one machine, with virtual routers and hosts on Containerlab and FRRouting, plus observability and an AI agent layer that diagnoses issues and proposes fixes.
 
 **[→ View the repo](https://github.com/AzizK97/netops_agent)**
 
